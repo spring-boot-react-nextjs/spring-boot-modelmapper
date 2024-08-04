@@ -6,9 +6,9 @@ It promotes separation of concerns, keeping data transformation logic distinct f
 
 <b>Author:</b> <a href="https://github.com/spring-boot-react-nextjs" target="_blank">spring-boot-react-nextjs</a><br>
 <b>Created:</b> 2024-07-08<br>
-<b>Last updated:</b> 2024-07-08
+<b>Last updated:</b> 2024-08-04
 
-[![](https://img.shields.io/badge/Spring%20Boot-8A2BE2)]() [![](https://img.shields.io/badge/release-Jun%2020,%202024-blue)]() [![](https://img.shields.io/badge/version-3.3.1-blue)]()
+[![](https://img.shields.io/badge/Spring%20Boot-8A2BE2)]() [![](https://img.shields.io/badge/release-Jul%2018,%202024-blue)]() [![](https://img.shields.io/badge/version-3.3.2-blue)]()
 
 ## 1. Why Model Mapping Matters?
 
